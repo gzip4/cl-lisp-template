@@ -1,2 +1,2 @@
 # cl-lisp-template
-Simple templating engine allowing evaluate Common Lisp forms
+Simple templating engine allowing evaluation of Common-Lisp forms
